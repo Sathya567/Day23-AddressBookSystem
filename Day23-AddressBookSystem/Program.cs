@@ -28,6 +28,9 @@ namespace Day23_AddressBookSystem
                     case 3:
                         // to exit from main method
                         Console.WriteLine("Exited");
+                        break;
+                    case 4:
+                        Console.WriteLine("Exited");
                         return;
 
                 }
