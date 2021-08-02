@@ -31,7 +31,11 @@ namespace Day23_AddressBookSystem
                         break;
                     case 4:
                         Console.WriteLine("Exited");
+                        break;
+                    case 5:
+                        Console.WriteLine("Exited");
                         return;
+
 
                 }
             }
